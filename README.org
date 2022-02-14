@@ -1,1 +1,4 @@
 * Rusty's own fetch
+This is my personal feth, is not supposed to be used for anyone else
+** This how it looks
+[[https://github.com/adalbertog20/rustyfetch/blob/main/2022-02-13.png]]
